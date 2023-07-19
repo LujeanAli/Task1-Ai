@@ -1,2 +1,1 @@
-# Task1-Ai
-## Robot Arm
+# Robotic Arm Simulation in Robot Operating System (ROS)
