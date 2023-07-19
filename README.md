@@ -4,7 +4,7 @@
 
 ## Install ROS 
 
-## 1- download VirtualBox  https://www.virtualbox.org/wiki/Downloads
+1- download VirtualBox  https://www.virtualbox.org/wiki/Downloads
 
 2- download Ubuntu 18.04  https://releases.ubuntu.com/18.04/
 
