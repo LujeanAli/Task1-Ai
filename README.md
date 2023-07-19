@@ -1,6 +1,6 @@
 # Robotic Arm Simulation in Robot Operating System (ROS)
 
-   ![image](RobotArm.png)
+   ![image](RobotArm1.png)
 
 ## Install ROS 
 
@@ -123,6 +123,7 @@ $ catkin_make
 ```
 $ roslaunch robot_arm_pkg check_motors.launch
 ```
+![image](RobotArm.png)
 
 
 
