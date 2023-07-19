@@ -1,4 +1,4 @@
 # Robotic Arm Simulation in Robot Operating System (ROS)
-![image] (Robot Arm.png)
+![image](RobotArm.png)
 
 ## General Overview
