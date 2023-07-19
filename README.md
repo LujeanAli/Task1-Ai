@@ -67,7 +67,7 @@ rosdep update
 
 ## Creat a workspace for catkin
 
-1- Prerequisites
+ Prerequisites
 ```
 $ source /opt/ros/melodic/setup.bash
 ```
